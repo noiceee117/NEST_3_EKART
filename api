@@ -1,0 +1,18 @@
+API CALLING CONCEPT
+
+1.import HttpClientModule in app.config.ts
+2. create a service to handle api calls
+3.use the service in component
+4.display data in product.component.html
+5.run the application
+
+create api service : ng g s apiservice
+card compenet set default 
+acrd component ts design 
+card component html
+product html loop set
+product on init?()
+
+
+
+now we have to create new function 
